@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Café Aroma Ligero",
+      "tueste": "Suave",
+      "descripcion": "Notas cítricas y florales, ideal para las primeras horas de la mañana.",
+      "precio": 35.00
+    },
+    {
+      "id": "2",
+      "nombre": "Café Equilibrio Perfecto",
+      "tueste": "Medio",
+      "descripcion": "Balance ideal con sutiles notas de chocolate y frutos secos.",
+      "precio": 40.00
+    },
+    {
+      "id": "3",
+      "nombre": "Café Intensidad Suprema",
+      "tueste": "Oscuro",
+      "descripcion": "Cuerpo robusto, sabor profundo y un marcado perfil ahumado.",
+      "precio": 45.00
+    }
+  ]
+}

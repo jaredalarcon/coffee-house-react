@@ -6,7 +6,7 @@
       "tueste": "Suave",
       "descripcion": "Notas cítricas y florales, ideal para las primeras horas de la mañana.",
       "precio": 35.00,
-      "imagen": "https://plus.unsplash.com/premium_photo-1675237625867-faddf7f858b7?q=80&w=387",
+      "imagen": "https://plus.unsplash.com/premium_photo-1675237625867-faddf7f858b7?q=80&w=387"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "tueste": "Medio",
       "descripcion": "Balance ideal con sutiles notas de chocolate y frutos secos.",
       "precio": 40.00,
-      "imagen": "https://plus.unsplash.com/premium_photo-1673637380658-4144fd3fa160?q=80&w=870",
+      "imagen": "https://plus.unsplash.com/premium_photo-1673637380658-4144fd3fa160?q=80&w=870"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "tueste": "Oscuro",
       "descripcion": "Cuerpo robusto, sabor profundo y un marcado perfil ahumado.",
       "precio": 45.00,
-      "imagen": "https://plus.unsplash.com/premium_photo-1726072371400-996a95bd8e08?q=80&w=870",
+      "imagen": "https://plus.unsplash.com/premium_photo-1726072371400-996a95bd8e08?q=80&w=870"
     }
   ]
 }

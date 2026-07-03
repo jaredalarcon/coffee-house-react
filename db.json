@@ -9,7 +9,7 @@
       "imagen": "https://plus.unsplash.com/premium_photo-1675237625867-faddf7f858b7?q=80&w=387"
     },
     {
-      "id": "1",
+      "id": "2",
       "nombre": "Café Amazonico",
       "tueste": "Suave",
       "descripcion": "Notas cítricas y florales, ideal para las primeras horas de la mañana.",
@@ -17,7 +17,7 @@
       "imagen": "https://plus.unsplash.com/premium_photo-1675237625867-faddf7f858b7?q=80&w=387"
     },
     {
-      "id": "2",
+      "id": "3",
       "nombre": "Café Amazonico",
       "tueste": "Medio",
       "descripcion": "Balance ideal con sutiles notas de chocolate y frutos secos.",
@@ -25,7 +25,7 @@
       "imagen": "https://plus.unsplash.com/premium_photo-1673637380658-4144fd3fa160?q=80&w=870"
     },
     {
-      "id": "3",
+      "id": "4",
       "nombre": "Café de Colombia",
       "tueste": "Oscuro",
       "descripcion": "Cuerpo robusto, sabor profundo y un marcado perfil ahumado.",
@@ -33,7 +33,7 @@
       "imagen": "https://plus.unsplash.com/premium_photo-1726072371400-996a95bd8e08?q=80&w=870"
     },
     {
-      "id": "3",
+      "id": "5",
       "nombre": "Café de Cajamarca",
       "tueste": "Oscuro",
       "descripcion": "Cuerpo robusto, sabor profundo y un marcado perfil ahumado.",

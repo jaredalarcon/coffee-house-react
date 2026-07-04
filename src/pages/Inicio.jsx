@@ -10,11 +10,11 @@ function Inicio() {
         Proveedores del mejor café en grano. Descubre la intensidad ideal para
         tu taza diaria con nuestra selección exclusiva de tuestes.
       </p>
-      <div className="mt-10 w-full px-4 md:px-8 mx-auto overflow-hidden rounded-2xl shadow-xl border-4 border-stone-900">
+      <div className="mt-10 px-4 md:px-8 mx-auto overflow-hidden rounded-2xl shadow-xl border-4 border-stone-900">
         <img
           src={imagenCafe}
           alt="Cafés de orígenes"
-          className="w-full h-auto object-cover"
+          className="w-full h-full object-cover"
         />
       </div>
 
@@ -95,7 +95,7 @@ function Inicio() {
 
       <Link
         to="/productos"
-        className="inline-block mt-4 bg-amber-500 hover:bg-amber-600 text-white font-bold py-4 px-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(28,25,23,1)] border-2 border-stone-900 transition-all transform hover:-translate-y-1"
+        className="inline-block mt-4 bg-amber-500 hover:bg-amber-600 text-white font-bold py-4 px-8 rounded-xl border-3 border-amber-600 transition-all transform  hover:scale-110"
       >
         Ver Catálogo
       </Link>
